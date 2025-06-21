@@ -50,3 +50,7 @@ We welcome contributions to the dang-learn-fe-development project! If you'd like
 5. Submit a pull request to the main repository.
 
 Thank you for your interest in contributing to the dang-learn-fe-development project!
+
+## Course Links
+
+- [Udemy](https://www.udemy.com/course/full-stack-crash-course/)
