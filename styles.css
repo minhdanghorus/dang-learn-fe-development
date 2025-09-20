@@ -223,3 +223,7 @@ source:visited {
     width: auto;
   }
 }
+
+.hidden {
+  display: none !important;
+}
